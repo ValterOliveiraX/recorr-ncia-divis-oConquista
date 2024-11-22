@@ -1,0 +1,4 @@
+bola;
+livro;
+celular;
+caneta;

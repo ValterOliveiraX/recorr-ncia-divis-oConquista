@@ -1,0 +1,15 @@
+===========================
+DESCRIÇÃO DE COMO EXECUTAR 
+===========================
+
+nao adicionar ponto e virgula no último valor da última linha.
+
+QUANTO AOS ARQUIVOS DE ENTRDA DE DADOS:
+//
+dadosQ1 -> Os dados de entrada estarão em apenas uma linha, separados por ;
+dadosQ2 -> uma string só para ser usada na questão 2
+dadosQ3 -> possui três valores separados por ponto e vírgula, são eles "DINHEIRO; UNIDADE; TROCA" 
+
+
+
+
